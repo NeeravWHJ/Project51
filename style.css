@@ -1,0 +1,9 @@
+.menu{
+display:flex;
+background-color:wheat;
+justify-content: space-between;
+font-size: 20px;
+background-color: #000000;
+color: #fffd20;
+}
+
